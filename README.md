@@ -7,6 +7,8 @@
 - :woman: Pronouns: ela/dela.
 
 
+<img src="octocat-1742420122680.png" width="150" height="150"/>
+
 
 
 ## Ferramentas e Tecnologias (aprendendo) :hammer:
