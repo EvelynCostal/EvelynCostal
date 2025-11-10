@@ -1,6 +1,6 @@
 ## Olá Mundo! Meu nome é Evelyn Costal 👋
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica do Salvador (UCSAL), estou no primeiro semestre;
-- 🌱 Atualmente estou aprendendo Java, Git e GitHub;
+- 🌱 Atualmente estou aprendendo Java, HTML, CSS, JavaScript Git e GitHub;
 - :notebook_with_decorative_cover: Estou procurando aprender cada vez mais sobre o mundo da tecnologia e a partir disso coloborar;
 - :computer: Estou procurando ajuda em conseguir oportunidades para me desenvolver cada vez mais;
 - 📫 Como entrar em contato comigo: evehhsilva31@gmail.com;
