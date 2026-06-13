@@ -33,15 +33,6 @@ Aqui estão as tecnologias, linguagens e metodologias que fazem parte do meu eco
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvelynCostal&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynCostal&layout=compact&theme=visual_studio_dark" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 Estou sempre aberta a conexões, trocas de experiências, mentorias e oportunidades no setor de tecnologia.
