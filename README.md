@@ -28,7 +28,7 @@ Aqui estão as tecnologias, linguagens e metodologias que fazem parte do meu eco
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Metodologias & Práticas
-- 🧩 Scrum (Mentalidade ágil, cerimônias e papéis)
+- 🧩 Scrum
 - 🗄️ Modelagem de Dados (Entidade-Relacionamento, normalização)
 
 ---
